@@ -63,4 +63,4 @@ This is a responsive Bootstrap 5-based web portal designed for managing and show
 - JavaScript handles UI interactions (login, alerts, etc.).
 - This project satisfies most Bootstrap 5 component and layout exercises.
 
-© 2025 Community Portal — Built with ❤️ using HTML, Bootstrap, and JavaScript.
+© 2025 Community Portal — Built with using HTML, Bootstrap, and JavaScript.
