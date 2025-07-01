@@ -3,7 +3,7 @@
 This is a responsive Bootstrap 5-based web portal designed for managing and showcasing community events. The project includes key features such as registration, login, event previews, feedback, a gallery, FAQ, contact, and more.
 
 ## 🌐 Features
-
+  waj ❤️3
 - 📅 **Event Registration** — User-friendly form interface to register for events.
 - 🔐 **Login Form** — User login interface with Bootstrap floating inputs.
 - 🎞️ **Event Video Preview** — Embedded video section to showcase event trailers.
